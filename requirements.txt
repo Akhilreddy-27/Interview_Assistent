@@ -1,0 +1,6 @@
+streamlit
+google-genai
+PyPDF2
+gTTS
+streamlit-ace
+python-dotenv
