@@ -9,7 +9,7 @@
   [![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 
-  [**🔴 Try the Live App Here**]([https://your-streamlit-url-goes-here.streamlit.app/](https://interviewassistent-9it3tptyvyyfezk8uz7y6e.streamlit.app/))
+  [**🔴 Try the Live App Here**](https://interviewassistent-9it3tptyvyyfezk8uz7y6e.streamlit.app/)
   
 </div>
 
